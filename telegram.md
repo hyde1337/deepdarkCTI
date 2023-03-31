@@ -149,6 +149,7 @@
 |https://t.me/RHA_Red_Hackers_Alliance_Russia|ONLINE| Data Leaks|
 |https://t.me/sanaski|ONLINE| Configs, combos |
 |https://t.me/Sell_rdp1|OFFLINE| |
+|https://t.me/poenamarket|ONLINE| Market, malware, leaks |
 |https://t.me/shieldteam1|ONLINE| |
 |https://t.me/silentplug666|ONLINE| Market |
 |https://t.me/slivnoviy123|ONLINE| Erernity Team Redline Stealer|
